@@ -31,7 +31,7 @@ a:hover {
 
 h1 {
   text-align: center;
-  padding: 1.5em;
+  padding: 1.1em;
   font-size: 4.2em;
 }
 
@@ -44,6 +44,8 @@ h1 {
 .card {
   border-radius: 0;
   border: none;
+  min-width: 22em;
+  margin: 1em;
 }
 
 #ncCard {
