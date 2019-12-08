@@ -1,0 +1,81 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100%;
+}
+
+body {
+  background-image: url("./images/vincent-delegge-PNJmNmcUc5Q-unsplash.jpg");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* background-position-x: center; */
+  background-position-y: bottom;
+  font-family: "Muli", sans-serif;
+}
+
+.nav {
+  background-color: #f4f4f4;
+}
+
+a {
+  color: #333;
+}
+
+a:hover {
+  color: grey;
+}
+
+h1 {
+  text-align: center;
+  padding: 1.5em;
+  font-size: 4.2em;
+}
+
+.cardParent {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.card {
+  border-radius: 0;
+  border: none;
+}
+
+#ncCard {
+  background-color: #333;
+}
+
+#ncText {
+  color: #f4f4f4;
+}
+
+.btn-primary {
+  background-color: cadetblue;
+  border: none;
+}
+
+p {
+  color: grey;
+}
+li {
+  color: grey;
+}
+
+/******* PROJECTS *******/
+
+.content {
+  background-color: #f4f4f4;
+  /* text-align: center; */
+  margin: 0em 18em 2em 18em;
+  padding: 1em;
+}
+
+.ramble {
+  width: 25%;
+  padding: 0.5em 0 0.7em 0;
+}
