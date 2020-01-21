@@ -35,6 +35,11 @@ h1 {
   font-size: 4.2em;
 }
 
+.cardGranny {
+  display: flex;
+  justify-content: center;
+}
+
 .cardParent {
   display: flex;
   flex-wrap: wrap;
