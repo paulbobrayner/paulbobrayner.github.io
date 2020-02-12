@@ -86,3 +86,12 @@ li {
   width: 25%;
   padding: 0.5em 0 0.7em 0;
 }
+
+/******* ABOUT *******/
+
+.linkedIn {
+  width: 20%;
+  height: auto;
+  /* background-color: pink; */
+  margin-bottom: 1em;
+}
